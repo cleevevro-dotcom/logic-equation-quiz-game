@@ -2,6 +2,8 @@
 
 A C# Windows Forms classroom game with truth-value and equation prompts, a score, lives, and a local high-score file. The original pixel-art backdrop and audio are included.
 
+![Original pixel-art city background](asds/CITY1.png)
+
 ## Stack
 
 C#, Windows Forms, .NET Framework 4.8.
